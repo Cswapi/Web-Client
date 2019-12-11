@@ -5,6 +5,9 @@
 sudo npm install -g npm
 npm install --global vue-cli
 npm install
+```
+运行：
+```
 npm run dev
 ```
 如果出现error，建议使用`su root`切换成root模式
